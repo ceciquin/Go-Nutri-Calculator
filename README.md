@@ -2,6 +2,7 @@
 Nutritional Calculator using Golang
 
 ## Tabla de contenidos
+
 * [General Information](#General Information)
 * [Technologies](#Technologies)
 * [Setup](#setup)
